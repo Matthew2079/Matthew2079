@@ -3,8 +3,8 @@
 <br></br>
 
 ## GitHub Stats
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew2079)](https://github.com/matthew2079)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew2079&langs_count=3)](https://github.com/matthew2079)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew2079&show_icons=true&theme=dracula)](https://github.com/matthew2079)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew2079&show_icons=true&theme=dracula&langs_count=7)](https://github.com/matthew2079)
 
 <br></br>
 
