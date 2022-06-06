@@ -3,8 +3,13 @@
 <br></br>
 
 ## GitHub Stats
+
+
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew2079&show_icons=true&theme=dracula)](https://github.com/matthew2079)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew2079&show_icons=true&theme=dracula&langs_count=7)](https://github.com/matthew2079)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew2079&layout=compact&theme=dracula&langs_count=7)](https://github.com/matthew2079)
+
+
+  
 
 <br></br>
 
