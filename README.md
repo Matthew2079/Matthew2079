@@ -7,9 +7,11 @@
     Estou em busca de uma oportunidade para realizar meu estágio e participando de um <i><b>Bootcamp do Santander na Plataforma da DIO (Digital Innovation One).</b></i>
 </p>
 
+<br></br>
+
 ## Bootcamps
 
-[DIO Bootcamp Santander 2022](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2022)
+- [DIO Bootcamp Santander 2022](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2022)
 
 <br></br>
 
@@ -25,6 +27,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew2079&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<br></br>
+     
 ## Programming Language
   
 - Adquirindo conhecimetos nas linguagens: <div style="display: inline_block"><br>
@@ -39,6 +43,7 @@
   -->
 </div>
   
+<br></br>
 
 ## Social Media
   
