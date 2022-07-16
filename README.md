@@ -5,7 +5,7 @@
 ### Mateus Marques Frahm  
 
 <p align='justify'>
-     Sou novo no universo da programação, estou cursando <i><b>Análise e Desenvolvimento de Sistemas pela Fatec Indaiatuba (ADS) – Dr. Archimedes Lammoglia, atualmente no 4º Semestre</b></i>.<br>
+     Sou novo no universo da programação, estou cursando <i><b>Análise e Desenvolvimento de Sistemas pela Fatec Indaiatuba (ADS) – Dr. Archimedes Lammoglia, atualmente no 5º Semestre</b></i>.<br>
     Estou em busca de uma oportunidade para realizar meu estágio e participando de um <i><b>Bootcamp do Santander na Plataforma da DIO (Digital Innovation One).</b></i>
 </p>
 
