@@ -2,12 +2,16 @@
 
 <br></br>
 
-### Mateus Marques Frahm  
+<h3 align="center">Mateus Marques Frahm</h3>
 
-<p align='justify'>
+<br>
+
+<div>
+<p align="center">
      Sou novo no universo da programação, estou cursando <i><b>Análise e Desenvolvimento de Sistemas pela Fatec Indaiatuba (ADS) – Dr. Archimedes Lammoglia, atualmente no 5º Semestre</b></i>.<br>
     Estou em busca de uma oportunidade para realizar meu estágio.
 </p>
+</div>
 
 <br></br>
 
