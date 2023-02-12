@@ -8,7 +8,7 @@
 
 <div>
 <p align="center">
-     Sou novo no universo da programação, estou cursando <i><b>Análise e Desenvolvimento de Sistemas pela Fatec Indaiatuba (ADS) – Dr. Archimedes Lammoglia, atualmente no 5º Semestre</b></i>.<br>
+     Sou novo no universo da programação, estou cursando <i><b>Análise e Desenvolvimento de Sistemas pela Fatec Indaiatuba (ADS) – Dr. Archimedes Lammoglia, atualmente no 6º Semestre</b></i>.<br>
     Estou em busca de uma oportunidade para realizar meu estágio.
 </p>
 </div>
