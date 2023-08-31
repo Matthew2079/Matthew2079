@@ -18,7 +18,7 @@
 ## Bootcamps
 
 - [DIO Bootcamp Santander 2022 - Fullstack Developer](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2022)
-- [DIO Bootcamp Santander 2023 - Ciência de Dados com Python](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2022)
+- [DIO Bootcamp Santander 2023 - Ciência de Dados com Python](https://github.com/Matthew2079/DIO_Bootcamp_Santander_2023)
 
 <br></br>
 
